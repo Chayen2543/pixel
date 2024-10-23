@@ -12,7 +12,7 @@
         Difficulty = 'Hard',
         AutoSkipWave = true,
         CustomTrading = {
-            ['Enabled'] = true,
+            ['Enabled'] = false,
             ['Username'] = {
                 'Chaayen001',
                 'Chaayen002',
@@ -37,7 +37,7 @@
             },
         },
         AutoTrading = {
-            ['Enabled'] = true,
+            ['Enabled'] = false,
             ['Main User'] = 'Chayenjane',
             ['JobID'] = '212d639b-1c16-4483-88a0-d1e299759c30',
         },
