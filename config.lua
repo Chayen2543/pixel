@@ -37,8 +37,8 @@
             },
         },
         AutoTrading = {
-            ['Enabled'] = false,
-            ['Main User'] = 'Chayenjane',
-            ['JobID'] = '212d639b-1c16-4483-88a0-d1e299759c30',
+            ['Enabled'] = true,
+            ['Main User'] = 'HugsPrawn070',
+            ['JobID'] = '',
         },
     };
