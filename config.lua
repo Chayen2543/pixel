@@ -39,6 +39,6 @@
         AutoTrading = {
             ['Enabled'] = true,
             ['Main User'] = 'HugsPrawn070',
-            ['JobID'] = '',
+            ['JobID'] = 'efc5f6f6-f7a7-4279-bdd3-c7fe79116527',
         },
     };
