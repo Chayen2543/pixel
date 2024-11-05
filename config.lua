@@ -37,7 +37,7 @@
             },
         },
         AutoTrading = {
-            ['Enabled'] = true,
+            ['Enabled'] = false,
             ['Main User'] = 'HugsPrawn070',
             ['JobID'] = 'efc5f6f6-f7a7-4279-bdd3-c7fe79116527',
         },
